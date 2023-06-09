@@ -1,0 +1,33 @@
+.header{
+  text-align: center;
+  background-color: rgb(245, 67, 47);
+  color: white;
+  margin-top: 10%;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 40px;
+}
+.header p{
+  font-size: larger;
+  font-family: 'Arial Narrow', Arial, sans-serif;
+}
+.dice{
+  font-weight: bold;
+}
+.header button{
+  padding: 10px 30px;
+  cursor: pointer;
+  border-radius: 5px;
+  border: white solid 2px;
+  background-color: rgb(245, 67, 47);
+  color: white;
+  font-size: large;
+  
+}
+.header button:hover{
+  
+  background-color: white;
+  color: rgb(245, 67, 47);
+  transition-duration: 0.3s;
+  
+}
